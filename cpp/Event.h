@@ -1,10 +1,7 @@
 #include <iostream>
-#include <fstream>
 #include <vector>
 #include <string>
 #include <cmath>
-#include <cstdio>
-#include <sstream>
 
 // A Event class
 class Particle {
